@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "<Method_Name>"
+name = "method_name"
 version = "1.0.0"
 description = "<Add description of method here>"
 authors = []
@@ -21,8 +21,8 @@ pytest-tap = "^3.3"
 pytest = "^7.3.1"
 
 [tool.pytest.ini_options]
-junit_test_suite_name = "<Method_Name>"
-addopts = "--cov=<Method_Name> --cov-fail-under=90 --cov-config=.coveragerc"
+junit_test_suite_name = "method_name"
+addopts = "--cov=method_name --cov-fail-under=90 --cov-config=.coveragerc"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
