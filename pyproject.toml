@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "<Method_Name>"
-version = "<Method Version - e.g 1.0.0>"
+version = "1.0.0"
 description = "<Add description of method here>"
 authors = []
 
