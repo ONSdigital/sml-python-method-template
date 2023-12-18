@@ -13,7 +13,7 @@ This repository templates the development of a new python method for the Statist
 This template is an example repository for a new Python implementation of a method targeted for the Statistical Method Library.
 You should use the template to produce the basic repository structure and tooling useful for developing a method in Python.
 
-1. Click on the "Use this template" button.
+1. Click on the "Use this template" button available on the main code page where you would normally clone a repository.
 2. Provide a name for your new repository, follow the naming convention sml-<method_name>-<implementation> e.g *sml-totals-and-components-python*, *sml-totals-and-components-pyspark* or *sml-totals-and-components-r*.
 3. Click the "Create repository from template" button.
 
