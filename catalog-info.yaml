@@ -12,9 +12,6 @@ metadata:
     - sml
     - template
     - method
-  links:
-      title: SML Python Method Template
-      icon: search
 spec:
   type: template
   lifecycle: production
