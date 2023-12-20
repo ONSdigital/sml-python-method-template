@@ -1,0 +1,21 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sml-python-method-template
+  description: This repository templates the development of a new python method for the Statistical Method Library
+  annotations:
+    jira/project-key: SPP
+    github.com/project-slug: ONSdigital/sml-python-method-template
+  tags:
+    - python
+    - spp
+    - sml
+    - template
+    - method
+  links:
+      title: SML Python Method Template
+      icon: search
+spec:
+  type: template
+  lifecycle: production
+  owner: group:spp-sml
